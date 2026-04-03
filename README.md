@@ -1,4 +1,4 @@
-# Cotton Weed Detection (YOLOv8n)
+# Cotton Weed Detection 
 
 This project is based on a Kaggle competition to detect 3 types of weeds in cotton fields using computer vision.
 
