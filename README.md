@@ -23,6 +23,23 @@ Focused on **data-centric machine learning**:
 - YOLOv8 (Ultralytics)
 - OpenCV
 
+## Data-Centric AI Approach
+Since the model is fixed, all improvements come from data:
+
+## Train baseline model
+- Use 3LC Dashboard to identify issues (missing labels, mislabels, bbox errors)
+- Fix data problems
+- Retrain with improved data
+- Submit and repeat
+- This mirrors real production AI where model capacity is constrained.
+
+## Dataset Details
+- Training: 542 images, ~2,000 weed instances
+- Validation: 133 images, ~500 weed instances
+- Test: 170 images (labels withheld)
+- Resolution: 1024×768 to 4032×3024 pixels
+- Quality: Intentional label imperfections (production reality)
+
 ## 🤝 Contribution
-This project was completed in collaboration with my cousin.  
+This project was completed in collaboration within a team. 
 Reference: https://github.com/Ibrahimak555/Computer-Vision-Projects/tree/main/Cottonweed%20Detection
