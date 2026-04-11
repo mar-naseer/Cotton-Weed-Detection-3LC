@@ -38,8 +38,6 @@ Since the model is fixed, all improvements come from data:
 - Validation: 133 images, ~500 weed instances
 - Test: 170 images (labels withheld)
 - Resolution: 1024×768 to 4032×3024 pixels
-- Quality: Intentional label imperfections (production reality)
-
 ## 🤝 Contribution
 This project was completed in collaboration within a team. 
 Reference: https://github.com/Ibrahimak555/Computer-Vision-Projects/tree/main/Cottonweed%20Detection
