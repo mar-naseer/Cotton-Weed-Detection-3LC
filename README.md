@@ -12,6 +12,7 @@ This project is based on a Kaggle competition to detect 3 types of weeds in cott
 - Morning Glory
 - Palmer Amaranth
 
+
 ## 🧠 Approach
 Focused on **data-centric machine learning**:
 - Fixed annotation errors
