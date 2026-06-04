@@ -7,6 +7,7 @@ This project is based on a Kaggle competition to detect 3 types of weeds in cott
 - Task: Multi-class object detection
 - Metric: mAP@0.5 = 0.817
 
+
 ## 🌱 Classes
 - Carpetweed
 - Morning Glory
