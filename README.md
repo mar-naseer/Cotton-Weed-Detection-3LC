@@ -43,3 +43,5 @@ Since the model is fixed, all improvements come from data:
 ## 🤝 Contribution
 This project was completed in collaboration within a team. 
 Reference: https://github.com/Ibrahimak555/Computer-Vision-Projects/tree/main/Cottonweed%20Detection
+
+
