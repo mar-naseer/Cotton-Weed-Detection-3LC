@@ -2,6 +2,7 @@
 
 This project is based on a Kaggle competition to detect 3 types of weeds in cotton fields using computer vision.
 
+
 ## 🔍 Overview
 - Model: YOLOv8n (edge-device constraint)
 - Task: Multi-class object detection
